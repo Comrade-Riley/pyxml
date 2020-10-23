@@ -8,7 +8,7 @@ setup(
   author = 'Comrade Riley',                  
   author_email = 'rileygamer001@gmail.com',     
   url = 'https://github.com/Comrade-Riley/pyxml/',   
-  download_url = 'https://github.com/Comrade-Riley/pyxml/archive/main.zip',   
+  download_url = 'https://github.com/Comrade-Riley/pyxml/archive/0.01.tar.gz',   
   keywords = ['python', 'xml', 'simple'],  
   install_requires=[            
           'pyxml2dict',
