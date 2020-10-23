@@ -1,0 +1,30 @@
+from distutils.core import setup
+setup(
+  name = 'pyxml',         
+  packages = ['pyxml'],   
+  version = '0.1',      
+  license='MIT',        
+  description = 'library for easy xml use based on the json library',
+  author = 'Comrade Riley',                  
+  author_email = 'rileygamer001@gmail.com',     
+  url = 'https://github.com/Comrade-Riley/pyxml/',   
+  download_url = 'https://github.com/Comrade-Riley/pyxml/archive/main.zip',   
+  keywords = ['python', 'xml', 'simple'],  
+  install_requires=[            
+          'pyxml2dict',
+          'dict2xml',
+      ],
+  classifiers=[
+    'Development Status :: 3 - Alpha',     
+    'Intended Audience :: Developers',     
+    'Topic :: Software Development :: Build Tools',
+    'License :: OSI Approved :: MIT License', 
+    'Programming Language :: Python :: 3',     
+    'Programming Language :: Python :: 3.4',
+    'Programming Language :: Python :: 3.5',
+    'Programming Language :: Python :: 3.6',
+    'Programming Language :: Python :: 3.7',
+    'Programming Language :: Python :: 3.8',
+    'Programming Language :: Python :: 3.9',
+  ],
+)
