@@ -1,0 +1,24 @@
+<servers>
+ <__text></__text>
+ <__text>None</__text>
+ <server1>
+  <__text></__text>
+  <__text>None</__text>
+  <users>
+   <__text></__text>
+   <__text>None</__text>
+   <bob>it works</bob>
+   <carry>None</carry>
+  </users>
+ </server1>
+ <server2>
+  <__text></__text>
+  <__text>None</__text>
+  <users>
+   <__text></__text>
+   <__text>None</__text>
+   <barry>None</barry>
+   <jerry>None</jerry>
+  </users>
+ </server2>
+</servers>
