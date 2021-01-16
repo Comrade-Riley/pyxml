@@ -2,7 +2,7 @@
 A wrapper that combos pyxml2dict dict2xml and makes them easy and convent  to us.
 # Example 
 
-# Main.py
+# example.py
 
 import pyxml
 
